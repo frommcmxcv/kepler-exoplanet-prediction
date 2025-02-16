@@ -9,7 +9,7 @@ This project aims to predict exoplanet candidates from the Kepler dataset using 
 - **Source:** Kaggle, originally sourced from NASA's Kepler Exoplanet Archive
 - **Type:** Tabular data with features such as orbital period, stellar mass, and flux.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, RF
 - **Modeling Techniques:** K-Nearest Neighbour, Support Vector Machine, Decision Tree, Random Forest, XGBoost
@@ -27,20 +27,6 @@ This project aims to predict exoplanet candidates from the Kepler dataset using 
 
 ## Results & Findings
 - The **Random Forest** model achieved the highest accuracy with optimized hyperparameters.
-
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook:
-   ```bash
-   jupyter notebook
-   ```
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
